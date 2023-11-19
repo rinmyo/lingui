@@ -1,0 +1,18 @@
+[submodule "data/shiji"]
+	path = data/shiji
+	url = https://github.com/wenku/shiji.git
+[submodule "data/KR4h0140"]
+	path = data/KR4h0140
+	url = https://github.com/kanripo/KR4h0140.git
+[submodule "data/KR2d0006"]
+	path = data/KR2d0006
+	url = https://github.com/kanripo/KR2d0006.git
+[submodule "data/KR4a0001"]
+	path = data/KR4a0001
+	url = https://github.com/kanripo/KR4a0001.git
+[submodule "data/KR2a0007"]
+	path = data/KR2a0007
+	url = https://github.com/kanripo/KR2a0007.git
+[submodule "data/KR2a0026"]
+	path = data/KR2a0026
+	url = https://github.com/kanripo/KR2a0026.git
